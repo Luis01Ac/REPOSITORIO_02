@@ -145,7 +145,7 @@ if __name__ == "__main__":
     tienda.mostrar_productos()
 
     # Crear un cliente
-    cliente1 = Cliente("Luis Achachi", "Ambato")
+    cliente1 = Cliente("Luis Achachi", "Ambato y Tungurahua")
 
     # El cliente agrega productos al carrito
     cliente1.agregar_producto_al_carrito(producto1, 1)  # Agregar 2 laptops
