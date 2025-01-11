@@ -131,15 +131,14 @@ if __name__ == "__main__":
     producto2 = Producto("Smartphone", 250, 12)
     producto3 = Producto("Auriculares", 22, 20)
 
-    # Nuevo producto agregado
-    producto4 = Producto("Tablet", 350, 15)
+
 
     # Creamos una tienda y agregar productos
     tienda = Tienda("HousePC")
     tienda.agregar_producto(producto1)
     tienda.agregar_producto(producto2)
     tienda.agregar_producto(producto3)
-    tienda.agregar_producto(producto4)   # Agregar el nuevo producto "Tablet"
+
 
     # Muestra productos disponibles en la tienda
     tienda.mostrar_productos()
