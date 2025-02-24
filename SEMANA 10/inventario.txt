@@ -1,0 +1,15 @@
+1,Camiseta,100,15.99
+2,Pantalón,50,25.5
+3,Zapatos,30,40.0
+1,Camiseta,100,15.99
+2,Pantalón,50,25.5
+3,Zapatos,30,40.0
+1,Camiseta,100,15.99
+2,Pantalón,50,25.5
+3,Zapatos,30,40.0
+1,Camiseta,100,15.99
+2,Pantalón,50,25.5
+3,Zapatos,30,40.0
+1,Camiseta,100,15.99
+2,Pantalón,50,25.5
+3,Zapatos,30,40.0
