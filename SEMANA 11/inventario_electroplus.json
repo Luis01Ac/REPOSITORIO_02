@@ -1,0 +1,32 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "Tel\u00e9fono iPhone 14",
+        "cantidad": 50,
+        "precio": 999.99
+    },
+    "002": {
+        "id": "002",
+        "nombre": "Laptop Dell XPS 13",
+        "cantidad": 30,
+        "precio": 1299.99
+    },
+    "003": {
+        "id": "003",
+        "nombre": "Aud\u00edfonos Sony WH-1000XM4",
+        "cantidad": 100,
+        "precio": 349.99
+    },
+    "004": {
+        "id": "004",
+        "nombre": "Smartwatch Samsung Galaxy Watch 5",
+        "cantidad": 75,
+        "precio": 279.99
+    },
+    "005": {
+        "id": "005",
+        "nombre": "Tablet Apple iPad Pro",
+        "cantidad": 20,
+        "precio": 799.99
+    }
+}
